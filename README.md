@@ -28,5 +28,5 @@
 
 ## Fun Facts
 
-- 🎮 I love gaming, nature and good stories!
+🎮 I love gaming, nature and good stories!
 
