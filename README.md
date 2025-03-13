@@ -6,26 +6,9 @@
 
 ❤️ I'm passionate about learning coding, web design and creating great user experiences!
 
-
-## Skills & Technologies
-
-- Responsive and mobile first web design
-- UI/UX design principles
-- HTML5
-- CSS3
-- BEM Methodology
-- JavaScript ES6 (Vanilla)
-- Git
-- GitHub for version control
-- GitHub Projects w/group collaboration
-- Agile Methodology
-- Netlify
-- Figma
-- Visual Studio Code
-
 ## Portfolio
 
-💻 [My Portfolio](https://jereriviel.github.io/portfolio/)
+✨ [My Portfolio](https://jereriviel.github.io/portfolio/)
 
 ## Recent Projects
 
@@ -33,7 +16,47 @@
 
 ☔ [RainyDays - Online store](https://jereriviel.github.io/javascript-1-ca/index.html)
 
-🌱 [Back to Basics - Blog application](https://fed-jereriviel-pe1.netlify.app)
+🌱 [Back to Basics - Blog application](https://jereriviel.github.io/project-exam-1/index.html)
+
+## Skills & Technologies
+
+### 🎨 Design
+- UI/UX design principles
+
+- WCAG standards
+
+- Responsive and mobile-first web design
+
+- Figma wireframing and prototyping
+
+### 💻 Front-End Development:
+- HTML5
+
+- CSS3
+
+- JavaScript ES6 (Vanilla)
+
+- API integration
+
+- BEM Methodology
+
+### 💾 Version Control & Collaboration:
+- Git
+
+- GitHub for version control
+
+- GitHub Projects (with group collaboration)
+
+- Agile Methodology
+
+### 🔧 Development Tools & Deployment:
+- Visual Studio Code
+
+- Postman
+
+- GitHub Pages
+
+- Netlify
 
 ## Fun Facts
 
