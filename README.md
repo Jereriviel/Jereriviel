@@ -9,10 +9,19 @@
 
 ## Skills & Technologies
 
-- HTML
-- CSS
-- Vanilla JavaScript
+- Responsive and mobile first web design
+- UI/UX design principles
+- HTML5
+- CSS3
+- BEM Methodology
+- JavaScript ES6 (Vanilla)
+- Git
+- GitHub for version control
+- GitHub Projects w/group collaboration
+- Agile Methodology
+- Netlify
 - Figma
+- Visual Studio Code
 
 ## Portfolio
 
