@@ -6,6 +6,8 @@
 
 ❤️ I'm passionate about learning coding, web design, and building modern web applications across the full stack.
 
+🛠 I focus on clean, maintainable code using modern tooling, linting, formatting, and automated testing.
+
 ## Portfolio
 
 ✨ [My Portfolio](https://jereriviel.github.io/portfolio/)
@@ -28,43 +30,42 @@
 
 ### 🎨 Design
 - UI/UX design principles
+- WCAG and accessibility standards
+- Responsive and mobile-first design
+- Figma (wireframing, prototyping, design systems and style guides)
 
-- WCAG standards
-
-- Responsive and mobile-first web design
-
-- Figma style guide, wireframing and prototyping
-
-### 💻 Web Development:
+### 💻 Web Development
 - HTML, CSS, Tailwind CSS
-
 - JavaScript, TypeScript
-
 - REST APIs
-
 - Node.js, Express.js
 
-### 💾 Version Control & Collaboration:
-- Git
-
-- GitHub
-
-- GitHub Projects
-
-- Agile Methodology
-
-### 🔧 Development Tools, Databases & Deployment:
-- Visual Studio Code
-
-- Postman
-
+### 💾 Databases
 - MySQL
 
-- GitHub Pages
+### 🔧 Development Tools & Workflow
+- Visual Studio Code
+- Vite
+- ESLint
+- Prettier
+- Husky
+- Postman
 
+### 📋 Testing
+- Vitest
+- Playwright
+
+### 📊 Version Control & Collaboration
+- Git
+- GitHub
+- GitHub Projects
+- Agile Methodology
+
+### 🚀 Deployment
+- GitHub Pages
 - Netlify
 
 ## Fun Facts
 
-🎮 I love gaming, nature and good stories!
+🎮 I love games, nature and good stories!
 
