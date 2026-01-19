@@ -10,7 +10,13 @@
 
 ✨ [My Portfolio](https://jereriviel.github.io/portfolio/)
 
-## Recent Projects
+## Recent School Projects
+
+🏦 [Trove - Online Auction house](https://jereriviel-js2-ca.netlify.app/)
+
+🔥 [Hearth - Social Media platform](https://jereriviel-semester-project-2.netlify.app/index.html)
+
+## All School Projects
 
 🔭 [Community Science Museum - Website](https://jereriviel.github.io/semester-project-1/)
 
