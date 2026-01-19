@@ -4,7 +4,7 @@
 
 🎓 I'm currently studying Front-end development at Noroff School of Technology and Digital Media.
 
-❤️ I'm passionate about learning coding, web design and creating great user experiences!
+❤️ I'm passionate about learning coding, web design, and building modern web applications across the full stack.
 
 ## Portfolio
 
@@ -35,22 +35,14 @@
 
 - Figma style guide, wireframing and prototyping
 
-### 💻 Front-End Development:
-- HTML
+### 💻 Web Development:
+- HTML, CSS, Tailwind CSS
 
-- CSS
+- JavaScript, TypeScript
 
-- Tailwind CSS
+- REST APIs
 
-- JavaScript
-
-- TypeScript
-
-- REST API
-
-- Node.js
-
-- Express.js
+- Node.js, Express.js
 
 ### 💾 Version Control & Collaboration:
 - Git
@@ -61,7 +53,7 @@
 
 - Agile Methodology
 
-### 🔧 Development Tools & Deployment:
+### 🔧 Development Tools, Databases & Deployment:
 - Visual Studio Code
 
 - Postman
