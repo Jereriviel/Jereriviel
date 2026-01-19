@@ -33,25 +33,31 @@
 
 - Responsive and mobile-first web design
 
-- Figma wireframing and prototyping
+- Figma style guide, wireframing and prototyping
 
 ### 💻 Front-End Development:
-- HTML5
+- HTML
 
-- CSS3
+- CSS
 
-- JavaScript ES6 (Vanilla)
+- Tailwind CSS
 
-- API integration
+- JavaScript
 
-- BEM Methodology
+- TypeScript
+
+- REST API
+
+- Node.js
+
+- Express.js
 
 ### 💾 Version Control & Collaboration:
 - Git
 
-- GitHub for version control
+- GitHub
 
-- GitHub Projects (with group collaboration)
+- GitHub Projects
 
 - Agile Methodology
 
@@ -59,6 +65,8 @@
 - Visual Studio Code
 
 - Postman
+
+- MySQL
 
 - GitHub Pages
 
