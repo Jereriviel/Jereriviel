@@ -14,9 +14,9 @@
 
 ## Recent School Projects
 
-🏦 [Trove - Social Media platform](https://jereriviel-semester-project-2.netlify.app/index.html)
+🏦 [Trove - Online Auction House](https://jereriviel-semester-project-2.netlify.app/index.html)
 
-🔥 [Hearth - Online Auction house](https://jereriviel-js2-ca.netlify.app/)
+🔥 [Hearth - Social Media Platform](https://jereriviel-js2-ca.netlify.app/)
 
 ## All School Projects
 
