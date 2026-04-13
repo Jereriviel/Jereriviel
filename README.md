@@ -10,21 +10,31 @@
 
 ## Portfolio
 
-✨ [My Portfolio](https://jereriviel.github.io/portfolio/)
+✨ [Year 1 Portfolio](https://jereriviel.github.io/portfolio/)
 
-## Recent School Projects
+## School Projects Year 2
 
-🏦 [Trove - Online Auction House](https://jereriviel-semester-project-2.netlify.app/index.html)
+🍕 [Smart Recipe Book - React Web Application](https://smart-recipe-book.netlify.app/) - Agency 2 Group Project (Contributed as team lead and developer)
 
-🔥 [Hearth - Social Media Platform](https://jereriviel-js2-ca.netlify.app/)
+🏪 [Meerkat - React Online Shop](https://js-fw-ca.netlify.app/) - React Frameworks Project
 
-## All School Projects
+📰 [News Platform API](https://github.com/Jereriviel/development-platforms-ca) - Development Platforms Project (Express.js, MySQL, JWT)
 
-🔭 [Community Science Museum - Website](https://jereriviel.github.io/semester-project-1/)
+🏦 [Trove - Online Auction House](https://jereriviel-semester-project-2.netlify.app/index.html) - Semester Project 2
 
-☔ [RainyDays - Online store](https://jereriviel.github.io/javascript-1-ca/index.html)
+🔥 [Hearth - Social Media Platform](https://jereriviel-js2-ca.netlify.app/) - JavaScript Project 2
 
-🌱 [Back to Basics - Blog application](https://jereriviel.github.io/project-exam-1/index.html)
+## School Projects Year 1
+
+🌱 [Back to Basics - Blog application](https://jereriviel.github.io/project-exam-1/index.html) - Project Exam 1
+
+🏫 [Edugate - School Result Management System](https://www.figma.com/design/IdBpLb1ou1CH8TY716G49E/Edugate?node-id=8995-6492&t=8sNMtOguZpdl4nco-1) - Agency 1 Project (Contributed as designer)
+
+☔ [RainyDays - Online store](https://jereriviel.github.io/javascript-1-ca/index.html) - JavaScript Project 1
+
+🔭 [Community Science Museum - Website](https://jereriviel.github.io/semester-project-1/) - HTML/CSS Semester Project 1
+
+
 
 ## Skills & Technologies
 
@@ -37,6 +47,7 @@
 ### 💻 Web Development
 - HTML, CSS, Tailwind CSS
 - JavaScript, TypeScript
+- React
 - REST APIs
 - Node.js, Express.js
 
