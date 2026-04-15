@@ -2,13 +2,13 @@
 
 I’m a Front-end Development student focused on building modern, accessible, and user-friendly web applications.
 
-I enjoy working with React, TypeScript, modern CSS, UI/UX design, and Figma, and I’m especially interested in turning ideas into life through clean, accessible, and intuitive interfaces.
+I enjoy working with React, TypeScript, Tailwind CSS, UI/UX design, and Figma, and I’m especially interested in turning ideas into life through clean, accessible, and intuitive interfaces.
 
 I would describe myself as creative and problem-solving oriented, with a strong interest in both design and frontend development.
 
 I’ve worked on full-stack-inspired frontend projects including e-commerce platforms, social applications, and API-driven systems using both vanilla JavaScript and modern React ecosystems.
 
-I am currently looking for internship or junior frontend opportunities where I can grow as a developer and contribute to real-world projects.
+I am currently looking for internship or junior frontend opportunities where I can grow as a developer and contribute to exciting new projects.
 
 ## Featured Projects
 
