@@ -121,7 +121,7 @@ JavaScript Project 2: Social Media Platform
 |
 📁 [Repo](https://github.com/Jereriviel/js2-ca)
 |
-🎨 [Figma](https://www.figma.com/design/hlbKZ2jyst2RDrPUG15300/JS2-CA?node-id=0-1&t=grxEiLKbWTdHoIDW-1)
+🎨 [Figma](https://www.figma.com/design/hlbKZ2jyst2RDrPUG15300/JS2-CA?node-id=1-980&t=N0ZRw4t2XAaN5X04-1)
 
 ## School Projects Year 1
 
