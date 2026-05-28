@@ -12,6 +12,20 @@ I am currently looking for internship or junior frontend opportunities where I c
 
 ## Featured Projects
 
+### 🌴 Holidaze Booking Application
+
+Project Exam 2: Accomadation Booking Application
+- Built a modern accommodation booking platform with venue browsing, search, booking management, and role-based functionality for customers and venue managers
+- Implemented authentication, form validation, and dynamic calendar booking features
+- Developed with React, TypeScript, Tailwind CSS, and TanStack Query
+
+🔗 [Live](https://jereriviel-pe2-holidaze.netlify.app/)
+|
+📁 [Repo](https://github.com/Jereriviel/project-exam-2)
+|
+🎨 [Figma](https://www.figma.com/design/cfWa93rTWCxTxo0cPyupnG/PE2-Holidaze?node-id=10-2&t=B8HGiCGIoWpcbXoO-1)
+
+
  ### 🛒 Meerkat Online Shop
 JavaScript Frameworks Project: E-commerce web application
 - Built a fully functional e-commerce frontend with product browsing, search, and product detail pages
