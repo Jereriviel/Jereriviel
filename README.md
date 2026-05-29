@@ -46,7 +46,7 @@ Agency 2 Group Project: Recipe Management Platform
 
 🔗 [Live](https://smart-recipe-book.netlify.app/)
 |
-📁 Repo unavailable during grading
+📁 Repo is currently private in a GitHub Classroom
 |
 🎨 [Figma](https://www.figma.com/design/FAGzx9gqzNiLzP17GTyMQ1/Smart-Recipe-Book-Design?node-id=0-1&t=Pp6vtXyradlBMZP8-1)
 
