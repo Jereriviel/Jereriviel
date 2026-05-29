@@ -32,7 +32,7 @@ JavaScript Frameworks Project: E-commerce web application
 - Implemented shopping cart and checkout flow using state management and API data integration
 - Developed with React, TypeScript, and Vite using modern UI tools and architecture patterns
 
-🔗 [Live](https://js-fw-ca.netlify.app/)
+🔗 [Live](https://jereriviel-js-frameworks.netlify.app/)
 |
 📁 [Repo](https://github.com/Jereriviel/js-frameworks-ca)
 |
