@@ -1,6 +1,6 @@
 # Hi there, I'm Carina! 👋
 
-I’m a Front-end Development student focused on building modern, accessible, and user-friendly web applications.
+I’m a frontend developer with a two year degree from Noroff School of Technology and Media. I focus on building modern, accessible, and user-friendly web applications.
 
 I enjoy working with React, TypeScript, Tailwind CSS, UI/UX design, and Figma, and I’m especially interested in turning ideas into life through clean, accessible, and intuitive interfaces.
 
@@ -11,6 +11,19 @@ I’ve worked on full-stack-inspired frontend projects including e-commerce plat
 I am currently looking for internship or junior frontend opportunities where I can grow as a developer and contribute to exciting new projects.
 
 ## Featured Projects
+
+### 💼 Personal Portfolio 2
+
+Year 2 Online Portfolio: Project Showcase Website
+- Planned and designed a personal portfolio showcasing three of my recent frontend projects
+- Includes three article pages, about me and technology sections, and an overview page of all my projects from Noroff
+- Developed with React, TypeScript and Tailwind CSS
+
+🔗 [Live](https://jereriviel-portfolio.netlify.app/)
+|
+📁 [Repo](https://github.com/Jereriviel/portfolio-2)
+|
+🎨 [Figma](https://www.figma.com/design/b4iwZGm0XD3HaqBHIJ1tGh/Portfolio-2?node-id=1-2817&t=tJSv804M6uXARjRt-1)
 
 ### 🌴 Holidaze Booking Application
 
@@ -38,17 +51,6 @@ JavaScript Frameworks Project: E-commerce web application
 |
 🎨 [Figma](https://www.figma.com/design/J9cAdEBVpKIsPzytwlSCRJ/JavaScript-Frameworks?node-id=0-1&t=KkDKlvYVyd9XzqSI-1)
 
-### 🍕 Smart Recipe Book Application
-Agency 2 Group Project: Recipe Management Platform
-- Built a full-featured React application for creating, editing, and managing recipes with API integration  
-- Implemented core functionality including authentication, search, filtering, and CRUD operations using React ecosystem tools  
-- Collaborated in an Agile team workflow using GitHub Issues, pull requests, and code reviews  
-
-🔗 [Live](https://smart-recipe-book.netlify.app/)
-|
-📁 Repo is currently private in a GitHub Classroom
-|
-🎨 [Figma](https://www.figma.com/design/FAGzx9gqzNiLzP17GTyMQ1/Smart-Recipe-Book-Design?node-id=0-1&t=Pp6vtXyradlBMZP8-1)
 
 ## Skills & Technologies
 
@@ -103,7 +105,19 @@ Agency 2 Group Project: Recipe Management Platform
 - GitHub Pages
 - Netlify
 
-## School Projects Year 2
+## Noroff School Projects Year 2
+
+### 🍕 Smart Recipe Book Application
+Agency 2 Group Project: Recipe Management Platform
+- Built a full-featured React application for creating, editing, and managing recipes with API integration  
+- Implemented core functionality including authentication, search, filtering, and CRUD operations using React ecosystem tools  
+- Collaborated in an Agile team workflow using GitHub Issues, pull requests, and code reviews  
+
+🔗 [Live](https://smart-recipe-book.netlify.app/)
+|
+📁 Repo is currently private in a GitHub Classroom
+|
+🎨 [Figma](https://www.figma.com/design/FAGzx9gqzNiLzP17GTyMQ1/Smart-Recipe-Book-Design?node-id=0-1&t=Pp6vtXyradlBMZP8-1)
 
 ### 🌐 News Platform API
 Development Platforms Project: REST API
@@ -137,7 +151,7 @@ JavaScript Project 2: Social Media Platform
 |
 🎨 [Figma](https://www.figma.com/design/hlbKZ2jyst2RDrPUG15300/JS2-CA?node-id=1-980&t=N0ZRw4t2XAaN5X04-1)
 
-## School Projects Year 1
+## Noroff School Projects Year 1
 
 ### ✨ Personal Portfolio
 Year 1 Online Portfolio: Project Showcase Website
